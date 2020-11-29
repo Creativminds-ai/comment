@@ -6,6 +6,6 @@
     "require": {
       "php": ">=7.0",
       "kalnoy/nestedset": "^5.0",
-      "jenssegers/date": "^3.5"
+      "jenssegers/date": "^4.0"
     }
 }

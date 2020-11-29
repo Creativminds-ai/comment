@@ -1,0 +1,11 @@
+{
+    "name": "creativminds/comment",
+    "description": "commenting system",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {
+      "php": ">=7.0",
+      "kalnoy/nestedset": "^4.3",
+      "jenssegers/date": "^3.5"
+    }
+}
